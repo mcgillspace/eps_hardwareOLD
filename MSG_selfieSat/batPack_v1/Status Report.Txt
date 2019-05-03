@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[batterieCB_v1.TXT]
+   Generated File[batterieCB_v1.LDP]
+   Generated File[batterieCB_v1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:36:52 On 17/04/2019
