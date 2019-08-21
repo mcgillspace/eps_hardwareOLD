@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[EPS_v5-DESKTOP-E8EC9B5.TXT]
+   Generated File[EPS_v5-DESKTOP-E8EC9B5.LDP]
+   Generated File[EPS_v5-DESKTOP-E8EC9B5.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:29:38 On 26/06/2019

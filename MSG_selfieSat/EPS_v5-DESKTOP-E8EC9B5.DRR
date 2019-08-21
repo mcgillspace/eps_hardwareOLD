@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EPS_v5-DESKTOP-E8EC9B5.PcbDoc   26/06/2019  12:29:38
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EPS_v5-DESKTOP-E8EC9B5.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             91        PTH        0.00mm (0.00inch)
+T2      0.55mm (22mil)                                            Round             7         PTH        0.00mm (0.00inch)
+T3      0.6mm (24mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             98        PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             5         PTH        0.00mm (0.00inch)
+T6      3mm (118mil)                                              Round             5         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              207
+
+Total Processing Time (hh:mm:ss) : 00:00:00
